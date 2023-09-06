@@ -1,0 +1,39 @@
+[
+    {
+      "email": "peter.quill@teste.com.br",
+      "fullName": "Peter Jason Quill",
+      "userName": "senhor_das_estrelas",
+      "password": "hibrido"
+    },
+    {
+      "email": "gamora@teste.com.br",
+      "fullName": "Gamora Zen Whoberi Ben Titan",
+      "userName": "gamora",
+      "password": "zenwhoberi"
+    },
+    {
+      "email": "rocket.raccoon@teste.com.br",
+      "fullName": "Rocket Raccoon",
+      "userName": "rocket",
+      "password": "mamifero"
+    },
+    {
+      "email": "groot@teste.com.br",
+      "fullName": "Groot",
+      "userName": "groot",
+      "password": "colossusfloral"
+    }
+    ,
+    {
+      "email": "drax@teste.com.br",
+      "fullName": "Drax",
+      "userName": "drax",
+      "password": "humanoreforcado"
+    },
+    {
+      "email": "youndu@teste.com.br",
+      "fullName": "Yondu Udonta",
+      "userName": "youndu",
+      "password": "centauriano"
+    }
+  ]
